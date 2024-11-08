@@ -60,6 +60,6 @@ To integrate `Spacer` into your Xcode project using Swift Package Manager, add i
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/99yuseong/Spacer.git")
+    .package(url: "https://github.com/99yuseong/Spacer.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
